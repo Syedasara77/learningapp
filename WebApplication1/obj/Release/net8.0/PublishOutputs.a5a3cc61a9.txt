@@ -1,0 +1,7 @@
+C:\Users\Syeda Sara\Desktop\TMP\WebApplication1\bin\publish\WebApplication1.exe
+C:\Users\Syeda Sara\Desktop\TMP\WebApplication1\bin\publish\appsettings.Development.json
+C:\Users\Syeda Sara\Desktop\TMP\WebApplication1\bin\publish\appsettings.json
+C:\Users\Syeda Sara\Desktop\TMP\WebApplication1\bin\publish\WebApplication1.dll
+C:\Users\Syeda Sara\Desktop\TMP\WebApplication1\bin\publish\WebApplication1.deps.json
+C:\Users\Syeda Sara\Desktop\TMP\WebApplication1\bin\publish\WebApplication1.runtimeconfig.json
+C:\Users\Syeda Sara\Desktop\TMP\WebApplication1\bin\publish\WebApplication1.pdb
